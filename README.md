@@ -19,3 +19,5 @@ source .venv/Scripts/activate
 
 python -W "default:Kedro is not yet fully compatible" -m kedro viz run
    
+![project](desgn.png)
+![project](wrkflowdesgn.png)
